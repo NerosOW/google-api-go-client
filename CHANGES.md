@@ -1,5 +1,20 @@
 # Changes
 
+## [0.104.0](https://github.com/googleapis/google-api-go-client/compare/v0.103.0...v0.104.0) (2022-11-18)
+
+
+### Features
+
+* **all:** Auto-regenerate discovery clients ([#1746](https://github.com/googleapis/google-api-go-client/issues/1746)) ([292129c](https://github.com/googleapis/google-api-go-client/commit/292129c681cb5e8f7dc66e499e477be5aec4a26e))
+* **all:** Auto-regenerate discovery clients ([#1751](https://github.com/googleapis/google-api-go-client/issues/1751)) ([a657f19](https://github.com/googleapis/google-api-go-client/commit/a657f191681814da2c048118f02e5a85e9c9436b))
+* **all:** Auto-regenerate discovery clients ([#1752](https://github.com/googleapis/google-api-go-client/issues/1752)) ([dd565a4](https://github.com/googleapis/google-api-go-client/commit/dd565a4a1b3867b4a1fe86ff9d8a633a6f3ba032))
+* **all:** Auto-regenerate discovery clients ([#1753](https://github.com/googleapis/google-api-go-client/issues/1753)) ([e18b504](https://github.com/googleapis/google-api-go-client/commit/e18b5044ca349e4d5b4a3b1cd807fed7e1e0fd39))
+
+
+### Documentation
+
+* Document limitation of WithUserAgent ([#1747](https://github.com/googleapis/google-api-go-client/issues/1747)) ([567070f](https://github.com/googleapis/google-api-go-client/commit/567070f3835f9f4039ed121de7319f9cf5a5af6b))
+
 ## [0.103.0](https://github.com/googleapis/google-api-go-client/compare/v0.102.0...v0.103.0) (2022-11-08)
 
 
